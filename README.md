@@ -2,6 +2,12 @@
 AutoExpense
 Steps to run on command line:
 
+Run.bat file can be executed : 
+
+java -Dfile.encoding=Cp1252 -classpath "C:\Users\Public\Jars\AutoExpenseModV1.4.28.2019.jar;C:\Users\Public\AutoExpenseModV1\bin;C:\Users\Public\Jars\fontbox-2.0.4.jar;C:\Users\Public\Jars\pdfbox-2.0.4.jar;C:\Users\Public\Jars\commons-logging-1.1.2.jar;C:\Users\Public\Jars\Selenium\client-combined-3.141.59.jar;C:\Users\Public\Jars\Selenium\client-combined-3.141.59-sources.jar;C:\Users\Public\Jars\Selenium\libs\byte-buddy-1.8.15.jar;C:\Users\Public\Jars\Selenium\libs\commons-exec-1.3.jar;C:\Users\Public\Jars\Selenium\libs\guava-25.0-jre.jar;C:\Users\Public\Jars\Selenium\libs\okhttp-3.11.0.jar;C:\Users\Public\Jars\Selenium\libs\okio-1.14.0.jar" test.UserInput
+
+
+
 
 I.	Required Jars ( need to down load from Maven Repo : 
 Url: https://mvnrepository.com/
@@ -13,6 +19,7 @@ Url: https://mvnrepository.com/
 6.	commons-exec-1.3.jar
 7.	okhttp-3.11.0.jar
 8.	okio-1.14.0.jar
+9. AutoExpenseModV1.4.28.2019.jar
 
 Direct Jar links:
 Jar direct link from Maven repo: (i will create Readme.md in Github)
@@ -77,7 +84,7 @@ Run below command in Command line (refer screenshot)
 
 OR
 Copy paste below command to command line (refer below screenshot)
-java -Dfile.encoding=Cp1252 -classpath "C:\Users\Public\AutoExpenseModV1\bin;C:\Users\Public\Jars\fontbox-2.0.4.jar;C:\Users\Public\Jars\pdfbox-2.0.4.jar;C:\Users\Public\Jars\commons-logging-1.1.2.jar;C:\Users\Public\Jars\Selenium\client-combined-3.141.59.jar;C:\Users\Public\Jars\Selenium\client-combined-3.141.59-sources.jar;C:\Users\Public\Jars\Selenium\libs\byte-buddy-1.8.15.jar;C:\Users\Public\Jars\Selenium\libs\commons-exec-1.3.jar;C:\Users\Public\Jars\Selenium\libs\guava-25.0-jre.jar;C:\Users\Public\Jars\Selenium\libs\okhttp-3.11.0.jar;C:\Users\Public\Jars\Selenium\libs\okio-1.14.0.jar" test.UserInput
+java -Dfile.encoding=Cp1252 -classpath "C:\Users\Public\Jars\AutoExpenseModV1.4.28.2019.jar;C:\Users\Public\AutoExpenseModV1\bin;C:\Users\Public\Jars\fontbox-2.0.4.jar;C:\Users\Public\Jars\pdfbox-2.0.4.jar;C:\Users\Public\Jars\commons-logging-1.1.2.jar;C:\Users\Public\Jars\Selenium\client-combined-3.141.59.jar;C:\Users\Public\Jars\Selenium\client-combined-3.141.59-sources.jar;C:\Users\Public\Jars\Selenium\libs\byte-buddy-1.8.15.jar;C:\Users\Public\Jars\Selenium\libs\commons-exec-1.3.jar;C:\Users\Public\Jars\Selenium\libs\guava-25.0-jre.jar;C:\Users\Public\Jars\Selenium\libs\okhttp-3.11.0.jar;C:\Users\Public\Jars\Selenium\libs\okio-1.14.0.jar" test.UserInput
  
 
 
