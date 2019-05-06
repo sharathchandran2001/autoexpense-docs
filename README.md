@@ -21,43 +21,17 @@ Url: https://mvnrepository.com/
 8.	okio-1.14.0.jar
 9. AutoExpenseModV1.4.28.2019.jar
 
-Direct Jar links:
-Jar direct link from Maven repo: (i will create Readme.md in Github)
-
-https://mvnrepository.com/artifact/org.seleniumhq.selenium/lift/3.141.59
-
-https://mvnrepository.com/artifact/commons-logging/commons-logging/1.1.2
-
-https://mvnrepository.com/artifact/net.bytebuddy/byte-buddy/1.8.15
-
-https://mvnrepository.com/artifact/commons-io/commons-io/1.3
-
-
-https://mvnrepository.com/artifact/com.squareup.okhttp3/okhttp/3.1.1
-
-
-https://mvnrepository.com/artifact/com.squareup.okio/okio/1.14.0
-
-
-https://mvnrepository.com/artifact/org.apache.pdfbox/fontbox/2.0.4
-
-https://mvnrepository.com/artifact/org.apache.pdfbox/pdfbox/2.0.4
-
 IE driver link:
 
 https://www.seleniumhq.org/download/ 
 
-The Internet Explorer Driver Server with 32 bit
+The Internet Explorer Driver Server with 32 bit for windows 7 machine.
 
-
+The Internet Explorer Driver Server with 64 bit for windows 10 machine.
 
 Jar files Location: (need to place it on below location)
 Automation Project jar: (need to place in same location as Run.bat has this path)
- 
- 
-
-
- 
+  
  
 
 
@@ -70,8 +44,6 @@ To download IE driver: https://www.seleniumhq.org/download/     (test is configu
  
 PDF file location and name:
  
-
-
 
 
 Steps to run
