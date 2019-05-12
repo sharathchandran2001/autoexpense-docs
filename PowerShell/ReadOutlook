@@ -1,0 +1,12 @@
+
+$Outlook = New-Object -ComObject Outlook.Application
+$inbox_mails = $Outlook.GetNamespace("MAPI").GetDefaultFolder('olFolderInbox').Items
+foreach ($mail in $inbox_mails){
+    Write-Host $mail.Subject
+}
+
+foreach ($mail in $inbox_mails){
+    Write-Host $mail.Subject
+}
+
+$inbox_mails | GM
